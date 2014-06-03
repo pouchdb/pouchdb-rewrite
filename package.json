@@ -10,8 +10,7 @@
 		"couchdb-objects": "*",
 		"pouchdb-req-http-query": "*",
 		"promise-nodify": "*",
-		"extend": "*",
-		"normalizeurl": "*"
+		"extend": "*"
 	},
 	"devDependencies": {
 		"es3ify": "*"
