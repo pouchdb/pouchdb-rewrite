@@ -1,6 +1,6 @@
 {
 	"name": "pouchdb-rewrite",
-	"version": "0.1.0",
+	"version": "1.0.0",
 	"main": "index.js",
 	"description": "A PouchDB plug-in that allows you to re-use your CouchDB rewrites on the client side.",
 	"repository": {
