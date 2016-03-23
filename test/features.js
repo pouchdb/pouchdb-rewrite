@@ -18,10 +18,13 @@ describe('Async rewrite tests', () => {
 
   it('basic resp', done => {
     db.rewrite('test/test/all', err => {
-      err.status.should.equal(404);
-      err.name.should.equal('not_found');
-      err.message.should.contain('view named ids');
-
+      try {
+        err.status.should.equal(404);
+        err.name.should.equal('not_found');
+        err.message.should.contain('view named ids');
+      } catch (exc) {
+        return done(exc);
+      }
       done();
     });
   });
