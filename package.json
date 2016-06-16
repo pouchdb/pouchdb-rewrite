@@ -26,7 +26,7 @@
     "pouchdb-route": "^1.0.0"
   },
   "devDependencies": {
-    "pouchdb-all-dbs": "^1.0.1",
+    "pouchdb-all-dbs": "^1.0.2",
     "pouchdb-list": "^1.0.6",
     "pouchdb-plugin-helper": "^3.0.0",
     "pouchdb-seamless-auth": "^1.0.2",
