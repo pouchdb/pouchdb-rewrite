@@ -23,7 +23,7 @@
     "promise-nodify": "^1.0.0",
     "extend": "^3.0.0",
     "pouchdb-plugin-error": "^1.0.0",
-    "pouchdb-route": "^1.0.0"
+    "pouchdb-route": "^1.0.3"
   },
   "devDependencies": {
     "pouchdb-all-dbs": "^1.0.1",
