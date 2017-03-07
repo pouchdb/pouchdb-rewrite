@@ -1,6 +1,8 @@
 pouchdb-rewrite
 ===============
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/pouchdb/pouchdb-rewrite.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/pouchdb/pouchdb-rewrite.svg?branch=master)](https://travis-ci.org/pouchdb/pouchdb-rewrite)
 [![Dependency Status](https://david-dm.org/pouchdb/pouchdb-rewrite.svg)](https://david-dm.org/pouchdb/pouchdb-rewrite)
 [![devDependency Status](https://david-dm.org/pouchdb/pouchdb-rewrite/dev-status.svg)](https://david-dm.org/pouchdb/pouchdb-rewrite#info=devDependencies)
